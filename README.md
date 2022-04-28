@@ -3,5 +3,4 @@ Web Scraping using BS4 in Python on a website that lists office that are availab
 
 **Project under progress**
 
-![My Remote Image](
-https://e7.pngegg.com/pngimages/319/643/png-clipart-programming-in-python-3-a-complete-introduction-to-the-python-language-python-machine-learning-programming-language-logo-framework-text-logo-thumbnail.png)
+![My Remote Image](https://cdn-images-1.medium.com/max/1000/1*6M0FxnC6CD9L6xGwROl5jQ.png)
